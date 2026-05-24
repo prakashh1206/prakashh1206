@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:4f8ef7&height=200&section=header&text=Bhanu%20Prakash%20Rokkam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Builder&descSize=17&descAlignY=58&descColor=a0b4d6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Bhanu%20Prakash%20Rokkam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Builder&descSize=17&descAlignY=58&descColor=d0e4ff" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=4F8EF7&center=true&vCenter=true&random=false&width=650&height=50&lines=🤖+Building+Real-World+AI+Solutions;🐍+Python+%7C+ML+%7C+Computer+Vision;🎓+B.Tech+CSE+(AI+%26+ML)+%40+ANITS+2027;🌱+Exploring+Advanced+AI+%26+Full+Stack+Dev;⚡+Turning+Coffee+into+Intelligent+Apps+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=680&height=50&lines=🤖+Building+Real-World+AI+Solutions;🐍+Python+%7C+ML+%7C+Computer+Vision;🎓+B.Tech+CSE+(AI+%26+ML)+%40+ANITS+2027;🌱+Exploring+Advanced+AI+%26+Full+Stack+Dev;⚡+Turning+Coffee+into+Intelligent+Apps+☕)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,8 +15,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuprakashrokkam)
-[![GitHub followers](https://img.shields.io/github/followers/prakashh1206?label=Follow&style=for-the-badge&color=181717&logo=github)](https://github.com/prakashh1206)
-[![Profile Views](https://komarev.com/ghpvc/?username=prakashh1206&color=4f8ef7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prakashh1206)
+[![GitHub followers](https://img.shields.io/github/followers/prakashh1206?label=Follow&style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/prakashh1206)
+[![Profile Views](https://komarev.com/ghpvc/?username=prakashh1206&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prakashh1206)
 
 </div>
 
@@ -24,7 +24,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding gif" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class BhanuPrakash:
@@ -32,16 +34,16 @@ class BhanuPrakash:
     name     = "Bhanu Prakash Rokkam"
     college  = "ANITS, Visakhapatnam"
     degree   = "B.Tech CSE (AI & ML) · 2027"
-    location = "📍 Vizag, Andhra Pradesh, India"
+    location = "📍 Vizag, Andhra Pradesh"
 
     passions = [
         "Artificial Intelligence",
         "Machine Learning",
         "Computer Vision",
-        "Automation & Problem Solving"
+        "Automation"
     ]
 
-    currently_learning = [
+    learning = [
         "Advanced AI & ML",
         "Full Stack Development"
     ]
@@ -50,7 +52,14 @@ class BhanuPrakash:
     open_to  = "Collaborations & Opportunities"
 ```
 
-<br clear="right" />
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,8 +85,8 @@ class BhanuPrakash:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Deep_Learning-F97316?style=for-the-badge&logoColor=white)
-![Caffe](https://img.shields.io/badge/Caffe-Model-8B5CF6?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-F97316?style=for-the-badge)
+![Caffe](https://img.shields.io/badge/Caffe-Model-8B5CF6?style=for-the-badge)
 
 **🔧 Tools & Platforms**
 
@@ -93,30 +102,29 @@ class BhanuPrakash:
 
 ## 🚀 Featured Projects
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌍 Tourism Planner
-> AI-powered planner that predicts crowd density and recommends optimal travel timings & alternative destinations.
+> AI-powered planner that predicts crowd density and recommends better travel timings & alternative destinations.
 
 **✨ Key Features:**
 - 🔹 Crowd density prediction with AI
-- 🔹 Smart travel timing recommendations  
+- 🔹 Smart travel timing recommendations
 - 🔹 Alternative destination suggestions
 - 🔹 Interactive web interface
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 TradingView MCP Scanner
-> AI-assisted scanner collecting RSI & OHLCV market data from TradingView via Chrome DevTools Protocol.
+> AI-assisted scanner collecting RSI & OHLCV market data from TradingView Desktop via Chrome DevTools Protocol.
 
 **✨ Key Features:**
 - ✅ Bullish / Bearish / Neutral signals
@@ -134,7 +142,7 @@ class BhanuPrakash:
 <td width="50%" valign="top">
 
 ### 🎨 B&W Image Colorization
-> AI-based colorization system using CNN and OpenCV DNN with a clean Streamlit web interface.
+> AI-based image colorization using CNN and OpenCV DNN with a clean Streamlit web interface.
 
 **✨ Key Features:**
 - ✅ Realistic AI-powered colorization
@@ -159,14 +167,13 @@ class BhanuPrakash:
 - Agentic AI systems
 - LLM-based applications
 
-![Status](https://img.shields.io/badge/Status-In_Progress-4f8ef7?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Progress-58a6ff?style=flat-square)
 ![Open](https://img.shields.io/badge/Open_To-Collaborate-00d4aa?style=flat-square)
 ![Ideas](https://img.shields.io/badge/Ideas-Always_On-F97316?style=flat-square)
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
@@ -175,7 +182,7 @@ class BhanuPrakash:
 <div align="center">
 
 | 🏅 | Certification | 🏛️ Issuer | Year |
-|:---:|---|---|:---:|
+|:---:|:---|:---|:---:|
 | ☁️ | **AWS Generative AI** | AWS Training & Certification | 2024 |
 | 💡 | **Prompt Engineering with GitHub** | Simplilearn SkillUp | 2024 |
 | 🔐 | **Introduction to Cybersecurity Awareness** | HP LIFE & HP Foundation | 2024 |
@@ -188,13 +195,13 @@ class BhanuPrakash:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakashh1206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4f8ef7&icon_color=00d4aa&text_color=c9d1d9&ring_color=4f8ef7&border_radius=10" height="175" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakashh1206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4aa&text_color=c9d1d9&ring_color=58a6ff&border_radius=10" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashh1206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&border_radius=10" height="175" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashh1206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=prakashh1206&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=00d4aa&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=6b7a9a&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" width="680" alt="Streak Stats"/>
+<img width="680" src="https://streak-stats.demolab.com/?user=prakashh1206&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=00d4aa&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6b7a9a&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" alt="Streak Stats"/>
 
 </div>
 
@@ -204,7 +211,7 @@ class BhanuPrakash:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakashh1206&bg_color=0d1117&color=4f8ef7&line=00d4aa&point=ffffff&area=true&area_color=4f8ef7&hide_border=true&radius=6)](https://github.com/prakashh1206)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakashh1206&bg_color=0d1117&color=58a6ff&line=00d4aa&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&radius=6)](https://github.com/prakashh1206)
 
 </div>
 
@@ -232,32 +239,6 @@ class BhanuPrakash:
 
 </div>
 
-> 💡 **To activate the snake** — create `.github/workflows/snake.yml` in this repo with the content below, then run it manually once from the **Actions** tab:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: prakashh1206
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 ---
 
 ## 🤝 Connect With Me
@@ -272,7 +253,7 @@ class BhanuPrakash:
 
 <br/>
 
-**💬 Ask me about** &nbsp; `Python` &nbsp; `AI / ML` &nbsp; `Computer Vision` &nbsp; `OpenCV` &nbsp; `Streamlit`
+**💬 Ask me about** &nbsp; `Python` &nbsp; `AI/ML` &nbsp; `Computer Vision` &nbsp; `OpenCV` &nbsp; `Streamlit`
 
 </div>
 
@@ -280,7 +261,7 @@ class BhanuPrakash:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,50:1a1f35,100:0d1117&height=130&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=130&section=footer&animation=fadeIn" />
 
 ### ⭐ *"Building AI solutions that solve real-world problems."*
 
