@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Bhanu%20Prakash%20Rokkam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Builder&descSize=17&descAlignY=58&descColor=d0e4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Bhanu%20Prakash%20Rokkam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Builder&descSize=17&descAlignY=58&descColor=d0e4ff" width="100%" alt="header"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=680&height=50&lines=🤖+Building+Real-World+AI+Solutions;🐍+Python+%7C+ML+%7C+Computer+Vision;🎓+B.Tech+CSE+(AI+%26+ML)+%40+ANITS+2027;🌱+Exploring+Advanced+AI+%26+Full+Stack+Dev;⚡+Turning+Coffee+into+Intelligent+Apps+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=680&height=50&lines=🤖+Building+Real-World+AI+Solutions;🐍+Python+%7C+ML+%7C+Computer+Vision;🎓+B.Tech+CSE+%28AI+%26+ML%29+%40+ANITS+2027;🌱+Exploring+Advanced+AI+%26+Full+Stack+Dev;⚡+Turning+Coffee+into+Intelligent+Apps+☕)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,8 +33,8 @@ class BhanuPrakash:
 
     name     = "Bhanu Prakash Rokkam"
     college  = "ANITS, Visakhapatnam"
-    degree   = "B.Tech CSE (AI & ML) · 2027"
-    location = "📍 Vizag, Andhra Pradesh"
+    degree   = "B.Tech CSE (AI & ML) 2027"
+    location = "Vizag, Andhra Pradesh"
 
     passions = [
         "Artificial Intelligence",
@@ -44,12 +44,12 @@ class BhanuPrakash:
     ]
 
     learning = [
-        "Advanced AI & ML",
+        "Advanced AI and ML",
         "Full Stack Development"
     ]
 
-    fun_fact = "I turn ☕ into AI solutions!"
-    open_to  = "Collaborations & Opportunities"
+    fun_fact = "I turn coffee into AI solutions!"
+    open_to  = "Collaborations and Opportunities"
 ```
 
 </td>
@@ -67,20 +67,20 @@ class BhanuPrakash:
 
 <div align="center">
 
-**⚙️ Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🌐 Web Development**
+**Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**🤖 AI / ML & Computer Vision**
+**AI / ML and Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -88,7 +88,7 @@ class BhanuPrakash:
 ![CNN](https://img.shields.io/badge/CNN-Deep_Learning-F97316?style=for-the-badge)
 ![Caffe](https://img.shields.io/badge/Caffe-Model-8B5CF6?style=for-the-badge)
 
-**🔧 Tools & Platforms**
+**Tools and Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -107,9 +107,9 @@ class BhanuPrakash:
 <td width="50%" valign="top">
 
 ### 🌍 Tourism Planner
-> AI-powered planner that predicts crowd density and recommends better travel timings & alternative destinations.
+AI-powered planner that predicts crowd density and recommends better travel timings and alternative destinations.
 
-**✨ Key Features:**
+**Key Features:**
 - 🔹 Crowd density prediction with AI
 - 🔹 Smart travel timing recommendations
 - 🔹 Alternative destination suggestions
@@ -124,12 +124,12 @@ class BhanuPrakash:
 <td width="50%" valign="top">
 
 ### 📈 TradingView MCP Scanner
-> AI-assisted scanner collecting RSI & OHLCV market data from TradingView Desktop via Chrome DevTools Protocol.
+AI-assisted scanner collecting RSI and OHLCV market data from TradingView Desktop via Chrome DevTools Protocol.
 
-**✨ Key Features:**
+**Key Features:**
 - ✅ Bullish / Bearish / Neutral signals
 - ✅ Automated JSON market reports
-- ✅ Crypto, Stocks & Forex support
+- ✅ Crypto, Stocks and Forex support
 - ✅ Real-time market classification
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -141,14 +141,14 @@ class BhanuPrakash:
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 B&W Image Colorization
-> AI-based image colorization using CNN and OpenCV DNN with a clean Streamlit web interface.
+### 🎨 B and W Image Colorization
+AI-based image colorization using CNN and OpenCV DNN with a clean Streamlit web interface.
 
-**✨ Key Features:**
+**Key Features:**
 - ✅ Realistic AI-powered colorization
 - ✅ Streamlit web interface
-- ✅ OpenCV + Caffe model integration
-- ✅ Upload & colorize instantly
+- ✅ OpenCV and Caffe model integration
+- ✅ Upload and colorize instantly
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -158,18 +158,17 @@ class BhanuPrakash:
 </td>
 <td width="50%" valign="top">
 
-### 🧠 More Projects Coming Soon...
-> Always building at the intersection of AI and real-world impact.
+### 🧠 More Projects Coming Soon
+Always building at the intersection of AI and real-world impact.
 
-**🔬 Currently Exploring:**
+**Currently Exploring:**
 - Advanced ML architectures
-- Full Stack + AI integration
+- Full Stack and AI integration
 - Agentic AI systems
 - LLM-based applications
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-58a6ff?style=flat-square)
 ![Open](https://img.shields.io/badge/Open_To-Collaborate-00d4aa?style=flat-square)
-![Ideas](https://img.shields.io/badge/Ideas-Always_On-F97316?style=flat-square)
 
 </td>
 </tr>
@@ -181,11 +180,11 @@ class BhanuPrakash:
 
 <div align="center">
 
-| 🏅 | Certification | 🏛️ Issuer | Year |
+| Badge | Certification | Issuer | Year |
 |:---:|:---|:---|:---:|
-| ☁️ | **AWS Generative AI** | AWS Training & Certification | 2024 |
+| ☁️ | **AWS Generative AI** | AWS Training and Certification | 2024 |
 | 💡 | **Prompt Engineering with GitHub** | Simplilearn SkillUp | 2024 |
-| 🔐 | **Introduction to Cybersecurity Awareness** | HP LIFE & HP Foundation | 2024 |
+| 🔐 | **Introduction to Cybersecurity Awareness** | HP LIFE and HP Foundation | 2024 |
 
 </div>
 
@@ -232,9 +231,9 @@ class BhanuPrakash:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakashh1206/prakashh1206/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakashh1206/prakashh1206/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/prakashh1206/prakashh1206/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakashh1206/prakashh1206/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakashh1206/prakashh1206/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/prakashh1206/prakashh1206/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -253,18 +252,14 @@ class BhanuPrakash:
 
 <br/>
 
-**💬 Ask me about** &nbsp; `Python` &nbsp; `AI/ML` &nbsp; `Computer Vision` &nbsp; `OpenCV` &nbsp; `Streamlit`
+**Ask me about** `Python` `AI/ML` `Computer Vision` `OpenCV` `Streamlit`
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=130&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
-<div align="center">
+**"Building AI solutions that solve real-world problems."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=130&section=footer&animation=fadeIn" />
-
-### ⭐ *"Building AI solutions that solve real-world problems."*
-
-*If you find my work helpful, drop a ⭐ on my repos — it means a lot!*
+*If you find my work helpful, drop a star on my repos!*
 
 </div>
