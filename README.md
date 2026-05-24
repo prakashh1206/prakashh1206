@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <table>
 <tr>
@@ -21,12 +21,12 @@
 ```python
 class BhanuPrakash:
 
-🎓 B.Tech CSE (AI & ML) Student – 2027  
-🏫 ANITS (Anil Neerukonda Institute of Technology & Sciences)  
-💡 Passionate about AI, Machine Learning, Automation & Real-world Problem Solving  
-🌱 Currently learning Advanced AI, ML, and Full Stack Development  
-⚡ Love building practical projects using Python and AI tools  
-📍 Visakhapatnam, India"
+B.Tech CSE (AI & ML) Student – 2027  
+ANITS (Anil Neerukonda Institute of Technology & Sciences)  
+Passionate about AI, Machine Learning, Automation & Real-world Problem Solving  
+Currently learning Advanced AI, ML, and Full Stack Development  
+Love building practical projects using Python and AI tools  
+Visakhapatnam, India"
 ```
 
 </td>
@@ -40,7 +40,7 @@ class BhanuPrakash:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -77,13 +77,13 @@ class BhanuPrakash:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Tourism Planner
+### Tourism Planner
 AI-powered planner that predicts crowd density and recommends better travel timings and alternative destinations.
 
 **Key Features:**
@@ -100,7 +100,7 @@ AI-powered planner that predicts crowd density and recommends better travel timi
 </td>
 <td width="50%" valign="top">
 
-### 📈 TradingView MCP Scanner
+### TradingView MCP Scanner
 AI-assisted scanner collecting RSI and OHLCV market data from TradingView Desktop via Chrome DevTools Protocol.
 
 **Key Features:**
@@ -118,7 +118,7 @@ AI-assisted scanner collecting RSI and OHLCV market data from TradingView Deskto
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 B and W Image Colorization
+### B and W Image Colorization
 AI-based image colorization using CNN and OpenCV DNN with a clean Streamlit web interface.
 
 **Key Features:**
@@ -135,7 +135,7 @@ AI-based image colorization using CNN and OpenCV DNN with a clean Streamlit web 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 More Projects Coming Soon
+### More Projects Coming Soon
 Always building at the intersection of AI and real-world impact.
 
 **Currently Exploring:**
@@ -153,7 +153,7 @@ Always building at the intersection of AI and real-world impact.
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Always building at the intersection of AI and real-world impact.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -179,7 +179,7 @@ Always building at the intersection of AI and real-world impact.
 
 ---
 
-## 📈 Contribution Activity Graph
+## Contribution Activity Graph
 
 <div align="center">
 
@@ -189,7 +189,7 @@ Always building at the intersection of AI and real-world impact.
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -203,7 +203,7 @@ Always building at the intersection of AI and real-world impact.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
