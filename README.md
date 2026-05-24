@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=200&amp;section=header&amp;text=Bhanu%20Prakash%20Rokkam&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Builder&amp;descSize=17&amp;descAlignY=58&amp;descColor=d0e4ff" width="100%" alt="header"/>
+# 👋 Hi, I'm BHANU PRAKASH ROKKAM
 
 </div>
 
