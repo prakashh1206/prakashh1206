@@ -87,10 +87,10 @@ Visakhapatnam, India
 AI-powered planner that predicts crowd density and recommends better travel timings and alternative destinations.
 
 **Key Features:**
-- 🔹 Crowd density prediction with AI
-- 🔹 Smart travel timing recommendations
-- 🔹 Alternative destination suggestions
-- 🔹 Interactive web interface
+- Crowd density prediction with AI
+- Smart travel timing recommendations
+- Alternative destination suggestions
+- Interactive web interface
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -104,10 +104,10 @@ AI-powered planner that predicts crowd density and recommends better travel timi
 AI-assisted scanner collecting RSI and OHLCV market data from TradingView Desktop via Chrome DevTools Protocol.
 
 **Key Features:**
-- ✅ Bullish / Bearish / Neutral signals
-- ✅ Automated JSON market reports
-- ✅ Crypto, Stocks and Forex support
-- ✅ Real-time market classification
+- Bullish / Bearish / Neutral signals
+- Automated JSON market reports
+- Crypto, Stocks and Forex support
+- Real-time market classification
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CDP](https://img.shields.io/badge/-CDP-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
@@ -122,10 +122,10 @@ AI-assisted scanner collecting RSI and OHLCV market data from TradingView Deskto
 AI-based image colorization using CNN and OpenCV DNN with a clean Streamlit web interface.
 
 **Key Features:**
-- ✅ Realistic AI-powered colorization
-- ✅ Streamlit web interface
-- ✅ OpenCV and Caffe model integration
-- ✅ Upload and colorize instantly
+- Realistic AI-powered colorization
+- Streamlit web interface
+- OpenCV and Caffe model integration
+- Upload and colorize instantly
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
