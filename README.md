@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 🎓 B.Tech CSE (AI & ML) Student – 2027  
-🏫 ANITS  
+🏫 ANITS (Anil Neerukonda Institute of Technology & Sciences)  
 💡 Passionate about AI, Machine Learning, Automation & Real-world Problem Solving  
 🌱 Currently learning Advanced AI, ML, and Full Stack Development  
 ⚡ Love building practical projects using Python and AI tools  
@@ -42,19 +42,33 @@
 ### 🌍 Tourism Planner
 AI-powered tourism planner that predicts crowd density and suggests better travel timings and alternative destinations.
 
+**Tech Used:** Python, HTML, CSS, JavaScript
+
+---
+
 ### 📈 Trading View MCP Scanner
-AI-assisted scanner for RSI and OHLCV market analysis.
+AI-assisted scanner that collects RSI and OHLCV market data from TradingView Desktop using CDP.
+
+✅ Bullish / Bearish / Neutral classification  
+✅ Automated JSON market reports  
+✅ Crypto, Stocks & Forex analysis
+
+---
 
 ### 🎨 Black & White Image Colorization
-AI-powered image colorization system using CNN and OpenCV.
+AI-based image colorization system using CNN and OpenCV DNN.
+
+✅ Realistic image colorization  
+✅ Streamlit web interface  
+✅ OpenCV + Caffe model integration
 
 ---
 
 ## 🏆 Certifications
 
-- Prompt Engineering with GitHub
-- AWS Generative AI
-- Introduction to Cybersecurity Awareness
+- Prompt Engineering with GitHub – Simplilearn SkillUp
+- AWS Generative AI – AWS Training & Certification
+- Introduction to Cybersecurity Awareness – HP LIFE & HP Foundation
 
 ---
 
@@ -82,10 +96,20 @@ AI-powered image colorization system using CNN and OpenCV.
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=prakashh1206&color=blue)
 
 ---
 
-⭐ Building AI solutions that solve real-world problems.
+⭐ “Building AI solutions that solve real-world problems.”
