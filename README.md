@@ -1,22 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm BHANU PRAKASH ROKKAM
+# Hi, I'm BHANU PRAKASH ROKKAM
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=680&height=50&lines=🤖+Building+Real-World+AI+Solutions;🐍+Python+%7C+ML+%7C+Computer+Vision;🎓+B.Tech+CSE+%28AI+%26+ML%29+%40+ANITS+2027;🌱+Exploring+Advanced+AI+%26+Full+Stack+Dev;⚡+Turning+Coffee+into+Intelligent+Apps+☕)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuprakashrokkam)
-[![GitHub followers](https://img.shields.io/github/followers/prakashh1206?label=Follow&style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/prakashh1206)
-[![Profile Views](https://komarev.com/ghpvc/?username=prakashh1206&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prakashh1206)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=680&height=50&lines=AI+%26+ML+Student;Building+Real-World+AI+Solutions;Building+Projects+with+AI;Exploring+Advanced+AI+%26+Full+Stack+Dev;Open+Source+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,25 +21,12 @@
 ```python
 class BhanuPrakash:
 
-    name     = "Bhanu Prakash Rokkam"
-    college  = "ANITS, Visakhapatnam"
-    degree   = "B.Tech CSE (AI & ML) 2027"
-    location = "Vizag, Andhra Pradesh"
-
-    passions = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Automation"
-    ]
-
-    learning = [
-        "Advanced AI and ML",
-        "Full Stack Development"
-    ]
-
-    fun_fact = "I turn coffee into AI solutions!"
-    open_to  = "Collaborations and Opportunities"
+🎓 B.Tech CSE (AI & ML) Student – 2027  
+🏫 ANITS (Anil Neerukonda Institute of Technology & Sciences)  
+💡 Passionate about AI, Machine Learning, Automation & Real-world Problem Solving  
+🌱 Currently learning Advanced AI, ML, and Full Stack Development  
+⚡ Love building practical projects using Python and AI tools  
+📍 Visakhapatnam, India"
 ```
 
 </td>
@@ -180,11 +157,13 @@ Always building at the intersection of AI and real-world impact.
 
 <div align="center">
 
-| Badge | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| ☁️ | **AWS Generative AI** | AWS Training and Certification | 2024 |
-| 💡 | **Prompt Engineering with GitHub** | Simplilearn SkillUp | 2024 |
-| 🔐 | **Introduction to Cybersecurity Awareness** | HP LIFE and HP Foundation | 2024 |
+| Certification | Issuer |
+|:---:|:---:|
+| **AWS Generative AI** | AWS Training and Certification |
+| **Prompt Engineering with GitHub** | Simplilearn SkillUp |
+| **Introduction to Cybersecurity Awareness** | HP LIFE and HP Foundation |
+| **Introduction to Generative AI** | AWS |
+
 
 </div>
 
@@ -193,12 +172,6 @@ Always building at the intersection of AI and real-world impact.
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakashh1206&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=00d4aa&amp;text_color=c9d1d9&amp;ring_color=58a6ff&amp;border_radius=10" alt="GitHub Stats"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashh1206&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_radius=10" alt="Top Languages"/>
-
-<br/><br/>
 
 <img width="680" src="https://streak-stats.demolab.com/?user=prakashh1206&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=00d4aa&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;dates=6b7a9a&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;border_radius=10" alt="Streak Stats"/>
 
@@ -211,16 +184,6 @@ Always building at the intersection of AI and real-world impact.
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakashh1206&bg_color=0d1117&color=58a6ff&line=00d4aa&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&radius=6)](https://github.com/prakashh1206)
-
-</div>
-
----
-
-## 🥇 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=prakashh1206&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=6&margin-h=6)](https://github.com/prakashh1206)
 
 </div>
 
@@ -248,17 +211,17 @@ Always building at the intersection of AI and real-world impact.
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-prakashh1206-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakashh1206)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuprakashrokkam@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=prakashh1206&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prakashh1206)
+
 
 <br/>
 
-**Ask me about** `Python` `AI/ML` `Computer Vision` `OpenCV` `Streamlit`
+`Building practical AI solutions while battling bugs and deadlines`
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=130&amp;section=footer&amp;animation=fadeIn" width="100%" alt="footer"/>
-
-**"Building AI solutions that solve real-world problems."**
 
 *If you find my work helpful, drop a star on my repos!*
 
