@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Bhanu%20Prakash%20Rokkam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Builder&descSize=17&descAlignY=58&descColor=d0e4ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=200&amp;section=header&amp;text=Bhanu%20Prakash%20Rokkam&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Builder&amp;descSize=17&amp;descAlignY=58&amp;descColor=d0e4ff" width="100%" alt="header"/>
 
 </div>
 
@@ -194,13 +194,13 @@ Always building at the intersection of AI and real-world impact.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakashh1206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4aa&text_color=c9d1d9&ring_color=58a6ff&border_radius=10" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakashh1206&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=00d4aa&amp;text_color=c9d1d9&amp;ring_color=58a6ff&amp;border_radius=10" alt="GitHub Stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashh1206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashh1206&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_radius=10" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="680" src="https://streak-stats.demolab.com/?user=prakashh1206&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=00d4aa&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6b7a9a&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" alt="Streak Stats"/>
+<img width="680" src="https://streak-stats.demolab.com/?user=prakashh1206&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=00d4aa&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;dates=6b7a9a&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;border_radius=10" alt="Streak Stats"/>
 
 </div>
 
@@ -256,7 +256,7 @@ Always building at the intersection of AI and real-world impact.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=130&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=130&amp;section=footer&amp;animation=fadeIn" width="100%" alt="footer"/>
 
 **"Building AI solutions that solve real-world problems."**
 
