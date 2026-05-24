@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash Rokkam</h1>
-<h3 align="center">AI & ML Student | Python Developer | Building Real-World AI Solutions</h3>
+<h3 align="center">AI & ML Student | Building Real-World AI Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Python+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Building+Projects+with+AI" alt="Typing SVG" />
@@ -43,6 +43,8 @@
 AI-powered tourism planner that predicts crowd density and suggests better travel timings and alternative destinations.
 
 **Tech Used:** Python, HTML, CSS, JavaScript
+
+href="[https://linkedin.com](https://www.linkedin.com/in/bhanu-prakash-rokkam-334ab2358/)">
 
 ---
 
@@ -99,7 +101,7 @@ AI-based image colorization system using CNN and OpenCV DNN.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/bhanu-prakash-rokkam-334ab2358/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
