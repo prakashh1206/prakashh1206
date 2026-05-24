@@ -26,7 +26,7 @@ ANITS (Anil Neerukonda Institute of Technology & Sciences)
 Passionate about AI, Machine Learning, Automation & Real-world Problem Solving  
 Currently learning Advanced AI, ML, and Full Stack Development  
 Love building practical projects using Python and AI tools  
-Visakhapatnam, India"
+Visakhapatnam, India
 ```
 
 </td>
